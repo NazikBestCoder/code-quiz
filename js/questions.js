@@ -2,24 +2,24 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "What was Javascript used for originally?",
+    answer: "Spams and Prompts",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Apps",
+      "Browser extensions",
+      "Desktop applications",
+      "Spams and Prompts"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "What does DOM stand for?",
+    answer: "Document Object Model",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Diverse Object Mode",
+      "Deviated Object Module",
+      "Document overall Model",
+      "Document Object Model"
     ]
   },
     {
@@ -35,13 +35,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Choose the application framework that is being used along with Javascript?",
+    answer: "All the above",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "Electron",
+      "Cordova",
+      "React Native",
+      "All the above"
     ]
   },
     {
